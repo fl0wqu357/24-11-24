@@ -1,0 +1,6 @@
+[
+    { "name": "Buenos Aires", "image": "buenos aires.png", "description": "Capital de Argentina." },
+    { "name": "Lima", "image": "lima.jpg", "description": "Capital de Perú." },
+    { "name": "Santiago", "image": "santiago.jpg", "description": "Capital de Chile." }
+  ]
+  
